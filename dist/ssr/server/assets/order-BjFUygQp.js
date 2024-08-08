@@ -1,0 +1,1 @@
+import{ref as s,reactive as t,toRefs as o}from"vue";const a=1,c=11,d=-1,i=10,u=20,r=s(null),p=()=>{const e=t({params:{assetsId:0,mode:a,pagination:{descending:!0,page:1,rowsPerPage:10,sortBy:"createdAt"}},showMoney:!0});return{pagination:r,...o(e)}};export{i as a,a as b,d as c,u as d,c as e,p as o};
