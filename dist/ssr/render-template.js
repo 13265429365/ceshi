@@ -4,7 +4,7 @@ __p += '<!DOCTYPE html><html ' +
 ((__t = ( ssrContext._meta.htmlAttrs )) == null ? '' : __t) +
 '><head>' +
 ((__t = ( ssrContext._meta.headTags )) == null ? '' : __t) +
-' <meta charset=utf-8><meta name=format-detection content="telephone=no"><meta name=msapplication-tap-highlight content=no><meta name=viewport content="user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1,width=device-width"><script type=module crossorigin src=/assets/index-BkcOOe94.js></script><link rel=stylesheet crossorigin href=/assets/index-CMu8866J.css> ' +
+' <meta charset=utf-8><meta name=format-detection content="telephone=no"><meta name=msapplication-tap-highlight content=no><meta name=viewport content="user-scalable=no,initial-scale=1,maximum-scale=1,minimum-scale=1,width=device-width"><script type=module crossorigin src=/assets/index-BGPSJsC7.js></script><link rel=stylesheet crossorigin href=/assets/index-CMu8866J.css> ' +
 ((__t = ( ssrContext._meta.endingHeadTags || '' )) == null ? '' : __t) +
 '</head><body class="' +
 ((__t = ( ssrContext._meta.bodyClasses )) == null ? '' : __t) +

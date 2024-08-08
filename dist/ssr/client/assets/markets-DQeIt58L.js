@@ -1,0 +1,1 @@
+import{n as s,_ as n,s as a,t as _}from"./index-BGPSJsC7.js";const o=s({name:"ProductMarkets",__name:"markets",setup(r,{expose:t}){t();const e={};return Object.defineProperty(e,"__isScriptSetup",{enumerable:!1,value:!0}),e}});function c(r,t,e,p,u,m){return a(),_("div",null,"markets")}const i=n(o,[["render",c],["__file","markets.vue"]]);export{i as default};

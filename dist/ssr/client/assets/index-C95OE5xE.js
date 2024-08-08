@@ -1,0 +1,1 @@
+import{n as r,_,s,t as o}from"./index-BGPSJsC7.js";const a=r({name:"DefaultIndex",__name:"index",setup(t,{expose:n}){n();const e={};return Object.defineProperty(e,"__isScriptSetup",{enumerable:!1,value:!0}),e}});function p(t,n,e,c,i,u){return s(),o("div")}const f=_(a,[["render",p],["__file","index.vue"]]);export{f as default};

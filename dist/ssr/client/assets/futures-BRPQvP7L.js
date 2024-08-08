@@ -1,1 +1,0 @@
-import{n as s,_ as u,s as n,t as _}from"./index-BkcOOe94.js";const o=s({name:"ProductFutures",__name:"futures",setup(r,{expose:t}){t();const e={};return Object.defineProperty(e,"__isScriptSetup",{enumerable:!1,value:!0}),e}});function a(r,t,e,c,p,f){return n(),_("div",null,"futures")}const l=u(o,[["render",a],["__file","futures.vue"]]);export{l as default};

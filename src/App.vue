@@ -51,7 +51,7 @@ defineOptions({
         }
         resolve(true)
       }).catch((err: any) => {
-        $initStore.domainStatus = err.hasOwnProperty('response') ? err.response.data : 'Network Error'
+        $initStore.domainStatus = err.hasOwnProperty('response') ? err.response.data : err.message
         resolve(false)
       })
       // axios.get(process.env.baseURL + `/init?domain=${ssrContext?.req.get('host')}&lang=${$userStore.userLang}`, {}).then((res: any) => {
