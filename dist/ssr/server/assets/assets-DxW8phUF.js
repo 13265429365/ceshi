@@ -1,1 +1,0 @@
-import{b as s}from"../server-entry.js";const a=()=>s.post("/auth/wallets/assets/assets",{},{showLoading:!0}),o=()=>s.post("/auth/wallets/assets/index",{},{showLoading:!0}),r=t=>s.post("/auth/wallets/assets/details",t,{showLoading:!0});export{r as a,o as u,a as w};
