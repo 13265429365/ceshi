@@ -1,0 +1,1 @@
+import{r as e,k as a,b1 as t}from"./index-BkcOOe94.js";const o=1,c=11,d=-1,i=10,u=20,r=e(null),p=()=>{const s=a({params:{assetsId:0,mode:o,pagination:{descending:!0,page:1,rowsPerPage:10,sortBy:"createdAt"}},showMoney:!0});return{pagination:r,...t(s)}};export{i as a,o as b,d as c,u as d,c as e,p as o};

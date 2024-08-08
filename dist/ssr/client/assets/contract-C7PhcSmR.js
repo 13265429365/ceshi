@@ -1,0 +1,1 @@
+import{n as r,_ as c,s as o,t as a}from"./index-BkcOOe94.js";const _=r({name:"ProductContract",__name:"contract",setup(n,{expose:t}){t();const e={};return Object.defineProperty(e,"__isScriptSetup",{enumerable:!1,value:!0}),e}});function s(n,t,e,p,u,f){return o(),a("div",null,"contract")}const l=c(_,[["render",s],["__file","contract.vue"]]);export{l as default};

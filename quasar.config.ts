@@ -8,7 +8,7 @@
 const devBaseURL = 'http://192.168.5.42:3010';
 
 // 线上API接口
-const prodBaseURL = 'https://api.ainn.us';
+const prodBaseURL = 'http://192.168.5.135:3040';
 
 import { configure } from 'quasar/wrappers';
 import { fileURLToPath } from 'node:url';
