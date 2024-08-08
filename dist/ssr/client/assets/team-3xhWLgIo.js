@@ -1,0 +1,1 @@
+import{aF as t}from"./index-BAN5Iapo.js";const e=()=>t.post("/auth/users/team/index",{},{showLoading:!0}),a=()=>t.post("/auth/users/team/details",{},{showLoading:!0}),o=()=>t.post("/auth/users/invite",{},{showLoading:!0});export{a,e as t,o as u};
